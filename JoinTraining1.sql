@@ -1,12 +1,12 @@
 -- Create database
-/*
-CREATE DATABASE JoinPracticeDB;
-*/
+
+-- CREATE DATABASE JoinPracticeDB;
+
 
 -- Use database
-/*
-USE JoinPracticeDB;
-*/
+
+-- USE JoinPracticeDB;
+
 
 -- Create Departments table
 /*
